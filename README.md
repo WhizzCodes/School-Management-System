@@ -1,6 +1,6 @@
 # School-Management-System
 
-This is a system with all necessary features such as student,teacher,principle,admin dashboard.
+This is a system with all necessary features a school/college needes in their this digital era such as student,teacher,principle,admin dashboard.
 
 Students can join class, submit assignment, give exams, attendend lecture meetings, see results, notice etc.
 
